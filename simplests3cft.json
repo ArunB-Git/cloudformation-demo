@@ -5,7 +5,6 @@
             "Type": "AWS::S3::Bucket"
         }
     },
-    
     "Outputs": {
         "BucketName": {
             "Value": {
@@ -13,5 +12,5 @@
             },
             "Description": "Name of the sample Amazon S3 bucket by Arun"
         }
-   
+    }
 }
